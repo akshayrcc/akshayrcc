@@ -1,11 +1,11 @@
-## Hi there, I'm [Akshay!](https://akshaychaudhari.github.io) 👋
+### Hi there, I'm [Akshay!](https://akshaychaudhari.github.io) 👋
 
 <!--
-[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https%3A%2F%2Fakshaychaudhari.github.io)](https://akshaychaudhari.github.io)
+[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc)
 -->
 
-### I'm a Developer, Explorer and Learner !
+## I'm a Developer, Explorer and Learner !
 
 - 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
 - 🌱 I’m currently learning Angular & Typescript. 😘
@@ -17,7 +17,7 @@
 
 [<img align="left" alt="akshaychaudhari" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="akshaychaudhari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="akshaychaudhari | Hackerrank" width="22px" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />][hackerrank]
+[<img align="left" alt="akshaychaudhari | Hackerrank" width="22px" src="https://raw.githubusercontent.com/akshaychaudhari/akshaychaudhari.github.io/master/img/hackerrank_logo.png" />][hackerrank]
 [<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
@@ -43,8 +43,6 @@
 <br />
 
 ---
-
-:zap: Github Stats
 
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
 
