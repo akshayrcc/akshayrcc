@@ -60,6 +60,7 @@ const akshay = {
       "my-blogging-site": "https://bit.ly/30xdWrc"
    }
 }
+```
 ---
 
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
