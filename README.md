@@ -16,13 +16,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/akshayrc/">
-    <img align="left" alt="Akshay's LinkedIn" width="180px" src="https://img.shields.io/badge/LinkedIn-Akshay%20-blue.svg" />
+    <img align="left" alt="Akshay's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Akshay&style=for-the-badge&color=blue" />
   </a> <emsp> 
   <a href="https://www.hackerrank.com/AkshayChaudhari">
-    <img align="left" alt="Akshay's Hackerrank" width="180px" src="https://img.shields.io/badge/Hackerrank-Akshay%20-green.svg" />
+    <img align="left" alt="Akshay's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Akshay&style=for-the-badge&color=green" />
   </a>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc">
-    <img align="left" alt="Akshay's Twitter" width="180px" src="https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge" />
+    <img align="left" alt="Akshay's Twitter" width="190px" src="https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://akshaychaudhari.github.io">
     <img align="left" alt="Akshay's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://akshaychaudhari.github.io" />
