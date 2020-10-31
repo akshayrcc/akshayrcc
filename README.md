@@ -36,6 +36,25 @@
 <br />
 
 ---
+### <img src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif" width="50"> My Object...  
+
+```javascript
+const akshay = {
+   "firstName": "Akshay",
+   "lastName":  "Chaudhari",
+   "pronouns":  ["he","him"],
+   "front-end": ["Angular", "Javascript", "Typescript", "HTML", "CSS", "Bootstrap"],
+   "back-end": ["Java", "Spring", "Hibernate", "Node"],
+   "cloud-technologies": ["OCI", "AWS"],
+   "programming-languages": ["Java", "Python", "C++"],
+   "current-goal": "Learning the clean coding standards",
+   "websites": {
+      "my-portfolio-site": "https://bit.ly/2Gp5F1R",
+      "my-blogging-site": "https://bit.ly/30xdWrc"
+   }
+}
+```
+---
 
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
 
@@ -68,4 +87,3 @@
 </p>
 
 ---
-
