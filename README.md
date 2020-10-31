@@ -1,10 +1,5 @@
 ### Hi there, I'm [Akshay!](https://akshaychaudhari.github.io) 👋
 
-<!--
-[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc)
--->
-
 ## I'm a Developer, Explorer and Learner !
 
 - 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
@@ -12,14 +7,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to experiment new things.
 
-
 ### Connect with me:
 
 [<img align="left" alt="akshaychaudhari" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="akshaychaudhari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akshaychaudhari | Hackerrank" width="22px" src="https://raw.githubusercontent.com/akshaychaudhari/akshaychaudhari.github.io/master/img/hackerrank_logo.png" />][hackerrank]
 [<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 
 <br />
 
@@ -50,4 +43,29 @@
 [twitter]: https://twitter.com/Akshayrc
 [linkedin]: https://www.linkedin.com/in/akshayrc/
 [hackerrank]: https://www.hackerrank.com/AkshayChaudhari
+
+[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc)
+
+---
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=vue-dark" />
+  <img align="right" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshayrc/">
+    <img align="center" alt="Akshay's LinkedIn" width="200px" src="https://img.shields.io/badge/LinkedIn-Akshay%20-blue.svg" />
+  </a> <emsp> 
+  <a href="https://www.hackerrank.com/AkshayChaudhari">
+    <img align="center" alt="Akshay's Hackerrank" width="220px" src="https://img.shields.io/badge/Hackerrank-Akshay%20-green.svg" />
+  </a>
+</p>
+
+<p align="right" style="margin-top: -25px;">
+  <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
+</p>
+
+---
 
