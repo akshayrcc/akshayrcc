@@ -17,7 +17,6 @@
   </a>
 </p>
 
----
 
 - 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
 - 🌱 I’m currently learning clean, elegant and robust coding. 😘
@@ -36,7 +35,6 @@
 [<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
 
----
 ### Languages and Tools I work with:
 
 [<img align="left" alt="Java" width="26px" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg" />][website]
@@ -54,6 +52,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
+</br>
 
 ---
 ### <img src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif" width="50"> My Object...  
