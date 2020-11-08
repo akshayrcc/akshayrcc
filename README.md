@@ -1,6 +1,6 @@
-<h1 align="center"> Hello there! My Name is <a href="https://akshaychaudhari.github.io"> Akshay</a>  👋🤓</h1>
+<h2 align="center"> Hello there! My Name is <a href="https://akshaychaudhari.github.io"> Akshay</a>  👋🤓</h2>
 
-<h2 align="center"> I'm a Developer, Explorer and Learner!</h2>
+<h3 align="center"> I'm a Developer, Explorer and Learner!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshayrc/">
@@ -17,6 +17,7 @@
   </a>
 </p>
 
+</br>
 
 - 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
 - 🌱 I’m currently learning clean, elegant and robust coding. 😘
@@ -73,6 +74,21 @@ const akshay = {
 }
 ```
 
+---
+<div align="center">
+	<div align="left">
+		<p align="left">
+		  <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=vue-dark" />
+		  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />
+		</p>
+	</div>
+	<div align="right">
+		<p align="right" style="margin-top: -25px;">
+		  <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
+		</p>
+	</div>
+</div>
+
 <!--
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
 -->
@@ -82,13 +98,4 @@ const akshay = {
 [linkedin]: https://www.linkedin.com/in/akshayrc/
 [hackerrank]: https://www.hackerrank.com/AkshayChaudhari
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=vue-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />
-</p>
-
-<p align="right" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
-</p>
