@@ -61,7 +61,9 @@
 
 
 </br>
+
 ---
+
 ### <img src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif" width="50"> My Object...  
 
 ```javascript
@@ -81,15 +83,15 @@ const akshay = {
 ```
 
 ---
-
+<!-- GitHub Stats Below-->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=vue-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />->
 </p>
-<!--
+<!-- Page View Counter Below-->
 <p align="right" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
-</p>-->
+</p>
 
 
 <!--
