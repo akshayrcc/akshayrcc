@@ -1,20 +1,8 @@
-### Hi there, I'm [Akshay!](https://akshaychaudhari.github.io) 👋
+<h1 align="center"> Hello there! My Name is [Akshay.](https://akshaychaudhari.github.io) 👋 </h1>
 
-## I'm a Developer, Explorer and Learner !
+<h2 align="center"> I'm a Developer, Explorer and Learner!</h2>
 
-- 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
-- 🌱 I’m currently learning Angular & Typescript. 😘
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to experiment new things.
-
-### Connect with me:
-
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc)
-[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
--->
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akshayrc/">
     <img align="left" alt="Akshay's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Akshay&style=for-the-badge&color=blue" />
   </a> <emsp> 
@@ -29,6 +17,18 @@
   </a>
 </p>
 
+---
+
+- 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
+- 🌱 I’m currently learning clean, elegant and robust coding. 😘
+- 🥅 2020 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to experiment new things.
+
+<!--
+[![Twitter Follow](https://img.shields.io/twitter/follow/Akshayrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAkshayrc&screen_name=Akshayrc)
+[![Website](https://img.shields.io/website?label=akshaychaudhari.github.io&style=for-the-badge&url=https://akshaychaudhari.github.io)](https://akshaychaudhari.github.io)
+-->
+
 
 <!--
 [<img align="left" alt="akshaychaudhari" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -39,7 +39,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I work with:
 
 [<img align="left" alt="Java" width="26px" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
@@ -72,9 +72,8 @@ const akshay = {
    "programming-languages": ["Java", "Python", "C++"],
    "current-goal": "Learning the clean coding standards",
    "websites": {
-      "my-portfolio-site": "https://bit.ly/2Gp5F1R",
-      "my-blogging-site": "https://bit.ly/30xdWrc"
-   }
+      "my-portfolio-site": "https://bit.ly/2Gp5F1R"
+	  }
 }
 ```
 
@@ -97,5 +96,3 @@ const akshay = {
 <p align="right" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
 </p>
-
----
