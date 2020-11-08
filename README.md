@@ -2,6 +2,8 @@
 
 <h3 align="center"> I'm a Developer, Explorer and Learner!</h3>
 
+</br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/akshayrc/">
     <img align="left" alt="Akshay's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Akshay&style=for-the-badge&color=blue" />
@@ -76,13 +78,13 @@ const akshay = {
 
 ---
 <div align="center">
-	<div align="left">
+	<div align="left" style="float:left;">
 		<p align="left">
 		  <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=vue-dark" />
 		  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />
 		</p>
 	</div>
-	<div align="right">
+	<div align="right" style="float:right;">
 		<p align="right" style="margin-top: -25px;">
 		  <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
 		</p>
