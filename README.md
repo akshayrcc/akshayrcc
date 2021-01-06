@@ -2,9 +2,9 @@
 
 ## I'm a Developer, Explorer and Learner !
 
-- 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)!
+<!--- 🔭 I’m currently working on [Restaurant Billing App](https://github.com/akshaychaudhari/restaurant-billing-app)! -->
 - 🌱 I’m currently learning clean, elegant and robust coding. 😘
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to experiment new things.
 
 ### Connect with me:
