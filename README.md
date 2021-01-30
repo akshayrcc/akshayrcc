@@ -89,8 +89,8 @@ const akshay = {
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=vue-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact" />
 </p>
 
 <p align="right" style="margin-top: -25px;">
