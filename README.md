@@ -1,4 +1,4 @@
-### Hi there, I'm [Akshay!](https://akshaychaudhari.github.io) 👋
+### Hi there, I'm [Akshay!](https://akshaychaudhari.github.io) <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50"><br>
 
 ## I'm a Developer, Explorer and Learner !
 
@@ -41,21 +41,21 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />][website]
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
+<code><img align="left"  height="50" alt="Java" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
+<code><img align="left"  height="50" alt="JavaScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img align="left"  height="50" alt="Angular"   src="https://angular.io/assets/images/logos/angular/angular.svg"></code>
+<code><img align="left"  height="50" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img align="left"  height="50" alt="Node.js"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img align="left"  height="50" alt="Visual Studio Code"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img align="left"  height="50" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img align="left"  height="50" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img align="left"  height="50" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img align="left"  height="50" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img align="left"  height="50" alt="MongoDB"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img align="left"  height="50" alt="Git"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img align="left"  height="50" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img align="left"  height="50" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img align="left"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <br />
 
 ---
@@ -77,6 +77,11 @@ const akshay = {
 }
 ```
 
+### My Contributions
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=akshaychaudhari&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
+  
+
 <!--
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
 -->
@@ -88,10 +93,13 @@ const akshay = {
 
 ---
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari" />
 </p>
+
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=akshaychaudhari&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6 />
 
 <p align="right" style="margin-top: -25px;">
   <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
