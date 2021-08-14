@@ -18,6 +18,7 @@
 -->
 
 <br />
+
 ### Connect with me:
 
 <p align="left">
@@ -55,7 +56,7 @@ const akshay = {
 ```
 -->
 
-### My Contributions <img src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif" width="50">
+### My Contributions: 
 
   <img src="https://activity-graph.herokuapp.com/graph?username=akshaychaudhari&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
   
@@ -76,7 +77,8 @@ const akshay = {
 <img align="left"  height="30" alt="Git"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left"  height="30" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left"  height="30" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left"  height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img align="left"  height="30" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img align="left"  height="30" alt="InnerEnergy" src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif">
 <br />
 <br />
 
@@ -94,7 +96,7 @@ const akshay = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychaudhari&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" />
 </p>
 
