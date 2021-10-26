@@ -62,6 +62,7 @@
 <img align="left"  width="45" height="45" alt="JUnit"   src="https://avatars.githubusercontent.com/u/874086?s=200&v=4">
 
 </p>
+
 <p align="center">
 
 <!--Code Management-->
@@ -70,7 +71,7 @@
 <img align="left" width="45" height="45" alt="Visual Studio Code"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left"  width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left"  width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-
+<h2></h2>
 <!--Source-->
 <!---->
 </p>
@@ -81,12 +82,15 @@
 <br />
 <br />
 
+<p>
 <h2>🕹️ My Github Stats 🏆</h2>
 
 <p align="center"> 
   <img  width="40%" alt="Akshay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&theme=radical&show_icons=true" >
   <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychaudhari&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
   <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
+</p>
+
 </p>
 
 <br />
