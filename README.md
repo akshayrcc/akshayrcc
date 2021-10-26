@@ -23,6 +23,7 @@
 <p align="center">
 
 <!-- Backend-->
+<a>
 <img align="left"  width="45" height="45" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
 <img align="left"  width="45" height="45" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
 <img align="left"  width="45" height="45" alt="JavaScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -35,8 +36,8 @@
 <img align="left"  width="45" height="45" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img align="left"  width="45" height="45" alt="Node.js"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left"  width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-
+<!--<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">-->
+</a>
 </p>
 
 <p align="center">
@@ -44,7 +45,7 @@
 <!--Databases-->
 <img align="left"  width="45" height="45" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
 <img align="left"  width="45" height="45" alt="PostreSQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-<img align="left"  width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<!--<img align="left"  width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">-->
 <img align="left"  width="45" height="45" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 <img align="left"  width="45" height="45" alt="MongoDB"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
@@ -60,7 +61,7 @@
 
 <!--Unit Testing-->
 <img align="left"  width="45" height="45" alt="JUnit"   src="https://avatars.githubusercontent.com/u/874086?s=200&v=4">
-
+<br />
 </p>
 
 <p align="center">
@@ -69,15 +70,12 @@
 <img align="left"  width="45" height="45" alt="Git"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left"  width="45" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 <img align="left" width="45" height="45" alt="Visual Studio Code"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left"  width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left"  width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<h2></h2>
+<!--<img align="left"  width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img align="left"  width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">-->
+<br />
 <!--Source-->
 <!---->
 </p>
-
-<br />
-<br />
 
 <br />
 <br />
