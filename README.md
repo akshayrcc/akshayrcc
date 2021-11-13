@@ -16,7 +16,7 @@
 [<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
 
-<br />
+<br/>
 
 <h2>🧰 My Toolbox 🛠️</h2>
 
