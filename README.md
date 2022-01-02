@@ -55,7 +55,7 @@
 <img align="left"  width="45" height="45" alt="Kubernetes"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg">
 <img align="left"  width="45" height="45" alt="AWS"   src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 
-<!--Repo/Dependecies -->
+<!--Repo/Dependencies -->
 <img align="left"  width="45" height="45" alt="Maven"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg">
 <img align="left"  width="45" height="45" alt="Gradle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg">
 
