@@ -96,10 +96,19 @@
 <h2>👨🏼‍💻 My Contributions 🍽️</h2>
 
 <p align="center"> 
-  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=akshaychaudhari&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true%22"><br>
+  <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=akshaychaudhari&theme=rogue&hide_border=true&area=true"><br>
  </p>
 
 <br />
+
+
+<h2>💎A Quote to live by🎙</h2>
+
+<p align="center">
+  <br>
+  <i>If you always do what interests you, at least one person is pleased.</i>
+  <br>
+</p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
 
@@ -142,5 +151,5 @@
 </br>
 
 <p align="right" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=akshaychaudhari" alt="AkshayChaudhari"/>
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=akshaychaudhari&color=7a33ff" alt="AkshayChaudhari"/>
 </p>
