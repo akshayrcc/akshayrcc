@@ -106,7 +106,7 @@
 
 <p align="center">
   <br>
-  <i>If you always do what interests you, at least one person is pleased.</i>
+  <i><h3>“It is never too late to be what you might have been.”</h3></i>
   <br>
 </p>
 
