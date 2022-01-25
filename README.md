@@ -16,8 +16,6 @@
 [<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
 
-<br/>
-
 <h2>🧰 My Toolbox 🛠️</h2>
 
 <p align="center">
@@ -105,9 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <br>
   <i><h3>“It is never too late to be what you might have been.”</h3></i>
-  <br>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
