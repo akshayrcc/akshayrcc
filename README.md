@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Not how long, but how well you have lived is the main thing”</h3></i>
+  <i><h3>“If it isn't a little scary it probably isn't worth your time.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
