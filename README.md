@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Don’t be pushed by your problems. Be led by your dreams.”</h3></i>
+  <i><h3>“There is only one thing that makes a dream impossible to achieve: the fear of failure.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
