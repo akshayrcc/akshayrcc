@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“If you really want to do something you’ll find a way, if you don’t you’ll find an excuse.”</h3></i>
+  <i><h3>“Success consists of going from failure to failure without loss of enthusiasm.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
