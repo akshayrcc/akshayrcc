@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Success consists of going from failure to failure without loss of enthusiasm.”</h3></i>
+  <i><h3>“The greatest glory in living lies not in never falling, but in rising every time we fall.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
