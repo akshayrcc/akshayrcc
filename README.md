@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Do not discourage yourself with what you haven't done, encourage yourself with what you will do.”</h3></i>
+  <i><h3>“It is in your moments of decision that your destiny is shaped.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
