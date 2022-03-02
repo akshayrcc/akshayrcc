@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“I learned that courage was not the absence of fear, but the triumph over it.”</h3></i>
+  <i><h3>“The only difference between a good day and a bad day is your attitude.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
