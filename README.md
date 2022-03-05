@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“You only live once, but if you do it right, once is enough.”</h3></i>
+  <i><h3>“Life is a stage and you get only one performance. Make it a good one.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
