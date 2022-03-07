@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Today is the oldest you've ever been, and the youngest you'll ever be again.”</h3></i>
+  <i><h3>“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
