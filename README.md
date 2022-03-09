@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“The best is yet to be.”</h3></i>
+  <i><h3>“To handle yourself, use your head; to handle others, use your heart.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
