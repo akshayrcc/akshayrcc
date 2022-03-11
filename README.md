@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.”</h3></i>
+  <i><h3>“I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
