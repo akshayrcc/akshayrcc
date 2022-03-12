@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“I can’t change the direction of the wind, but I can adjust my sails to always reach my destination.”</h3></i>
+  <i><h3>“If you want to live a happy life, tie it to a goal, not to people or things.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
