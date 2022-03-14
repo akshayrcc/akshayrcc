@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“If you want to lift yourself up, lift up someone else.”</h3></i>
+  <i><h3>“Your time is limited, so don't waste it living someone else's life.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
