@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.”</h3></i>
+  <i><h3>“You can feel sore tomorrow or you can feel sorry tomorrow. You choose.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
