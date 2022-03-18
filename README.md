@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“You can feel sore tomorrow or you can feel sorry tomorrow. You choose.”</h3></i>
+  <i><h3>“If we are facing in the right direction, all we have to do is keep on walking.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
