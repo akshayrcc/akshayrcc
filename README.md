@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Change your thoughts, change your world.”</h3></i>
+  <i><h3>“Talk less, listen more.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
