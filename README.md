@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Be not afraid of growing slowly; be afraid only of standing still.”</h3></i>
+  <i><h3>“The only real mistake is the one from which we learn nothing.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
