@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“The only real mistake is the one from which we learn nothing.”</h3></i>
+  <i><h3>“If you have good habits, time becomes your ally. All you need is patience.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
