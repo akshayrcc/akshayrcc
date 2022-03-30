@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“It's a job that's never started that takes the longest to finish.”</h3></i>
+  <i><h3>“The walls we build around us to keep sadness out also keeps out the joy.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
