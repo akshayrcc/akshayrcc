@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“You may be deceived if you trust too much, but you’ll live in torment if you don’t trust enough.”</h3></i>
+  <i><h3>“Look for something positive each day, even if some days you have to look a little harder.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
