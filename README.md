@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Choose a job you love and you will never have to work a day of your life.”</h3></i>
+  <i><h3>“What gets measured gets managed.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
