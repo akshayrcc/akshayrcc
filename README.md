@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“What gets measured gets managed.”</h3></i>
+  <i><h3>“If you don't like where you are, change it. You're not a tree.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
