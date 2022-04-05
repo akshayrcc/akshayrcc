@@ -103,7 +103,8 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“If you don't like where you are, change it. You're not a tree.”</h3></i>
+  <i><h3>“You must expect failure as part of your journey of success, failure and success
+go hand in hand, you cannot have one without the other.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
