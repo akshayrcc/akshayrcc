@@ -103,8 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“You must expect failure as part of your journey of success, failure and success
-go hand in hand, you cannot have one without the other.”</h3></i>
+  <i><h3>“Whatever you think you can do or believe you can do, begin it. Action has magic, grace, and power in it.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
