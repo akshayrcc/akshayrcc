@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Whatever you think you can do or believe you can do, begin it. Action has magic, grace, and power in it.”</h3></i>
+  <i><h3>“Every day is a new beginning, take a deep breath and start again.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
