@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Every day is a new beginning, take a deep breath and start again.”</h3></i>
+  <i><h3>“The most difficult thing is the decision to act, the rest is merely tenacity.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
