@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Without forgiveness life is governed by an endless cycle of resentment and retaliation.”</h3></i>
+  <i><h3>“When I let go of what I am, I become what I might be.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
