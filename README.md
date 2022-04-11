@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“When I let go of what I am, I become what I might be.”</h3></i>
+  <i><h3>“It’s easy in the world to live after the world’s opinion; it’s easy in solitude to live after our own; but great people keep with the sweet independence of solitude in the midst of a crowd.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
