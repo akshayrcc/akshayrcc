@@ -103,8 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Never underestimate the ability of a small group of dedicated people to
-change the world. Indeed, it is the only thing that ever has.”</h3></i>
+  <i><h3>“Art washes away from the soul the dust of everyday life.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
