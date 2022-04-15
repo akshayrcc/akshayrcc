@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”</h3></i>
+  <i><h3>“The surest way to find your dream job is to create it.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
