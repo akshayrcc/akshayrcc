@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Most people get ahead during the time that others waste.”</h3></i>
+  <i><h3>“Experience is simply the name we give our mistakes.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
