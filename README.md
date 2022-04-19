@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“A smooth sea never made a skillful sailor.”</h3></i>
+  <i><h3>“Always be yourself, express yourself, have faith in yourself. Do not go out and look for a successful personality and duplicate it.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
