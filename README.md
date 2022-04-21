@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Do not wish for an easy life. Wish for the strength to endure a difficult one.”</h3></i>
+  <i><h3>“Either you run the day or the day runs you.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
