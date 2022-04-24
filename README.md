@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Take care of your body. It’s the only place you have to live.”</h3></i>
+  <i><h3>“Nothing will work unless you do.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
