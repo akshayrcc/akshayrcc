@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Don't regret anything you do, because in the end it makes you who you are.”</h3></i>
+  <i><h3>“Do the thing you think you cannot do.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
