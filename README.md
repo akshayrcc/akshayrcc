@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Treat people as if they were what they ought to be and you help them to become what they are capable of being.”</h3></i>
+  <i><h3>“Make the most of yourself, for that is all there is of you.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
