@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Make the most of yourself, for that is all there is of you.”</h3></i>
+  <i><h3>“Keep your goals away from the trolls.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
