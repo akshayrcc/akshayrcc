@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Keep your goals away from the trolls.”</h3></i>
+  <i><h3>“Trust yourself. Create the kind of self that you will be happy to live with all your life.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
