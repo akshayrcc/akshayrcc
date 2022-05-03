@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Believe in your infinite potential. Your only limitations are those you set upon yourself.”</h3></i>
+  <i><h3>“Believe in your infinite potential. Your only limitations are those you set upon yourself. ”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
