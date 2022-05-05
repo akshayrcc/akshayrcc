@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Start where you are. Use what you have. Do what you can.”</h3></i>
+  <i><h3>“Be an encourager, the world has enough critics already.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
