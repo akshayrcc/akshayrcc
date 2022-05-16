@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Do what you love, not what you think you're supposed to do.”</h3></i>
+  <i><h3>“Be kind; everyone you meet is fighting a hard battle.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
