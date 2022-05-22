@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Be kind; everyone you meet is fighting a hard battle.”</h3></i>
+  <i><h3>“It takes inspiration and activity to the point of insanity to create something truly worthwhile for everyone.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
