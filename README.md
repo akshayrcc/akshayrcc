@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Try the impossible to show that it can be done.”</h3></i>
+  <i><h3>“Inhale Love. Exhale Gratitude.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
