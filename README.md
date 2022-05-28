@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“More people would learn from their mistakes if they weren't so busy denying them.”</h3></i>
+  <i><h3>“Creativity is intelligence having fun.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
