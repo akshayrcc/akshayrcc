@@ -103,7 +103,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Don’t bother to be better than others. Try to be better than yourself.”</h3></i>
+  <i><h3>“Learn from the mistakes of others. You can never live long enough to make them all yourself.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
