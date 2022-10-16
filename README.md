@@ -99,11 +99,10 @@
 
 <br />
 
-
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Learn from the mistakes of others. You can never live long enough to make them all yourself.”</h3></i>
+  <i><h3>“Life is like riding a bicycle. To keep your balance, you must keep moving.”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
@@ -128,7 +127,6 @@
     <img align="left"  width="45" height="45" alt="InnerEnergy" src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif">
   </a> -->
 </p>
-
 
 <!--
 <img align="left" alt="Akshay Chaudhari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&show_icons=true&hide_border=true&include_all_commits" />
