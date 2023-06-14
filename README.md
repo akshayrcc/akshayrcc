@@ -102,7 +102,7 @@
 <h2>💎A Quote to live by🎙</h2>
 
 <p align="center">
-  <i><h3>“Life is like riding a bicycle. To keep your balance, you must keep moving.”</h3></i>
+  <i><h3>“The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela”</h3></i>
 </p>
 
 <h2>🕵🏼 Find me over 🔭</h2>
