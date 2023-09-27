@@ -99,10 +99,10 @@
 
 <br /> -->
 
-<h2>💎A Quote to live by🎙</h2>
+<h2>💎 A Quote for life 🎙 A Soup for Soul 🥘 🍲 </h2>
 
 <p align="center">
-  <i><h3>“To know how much there is to know is the beginning of learning to live.” —Dorothy West</h3></i>
+  <i><h3>"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</h3></i>
 </p>
 
 <!-- <h2>🕵🏼 Find me over 🔭</h2>
