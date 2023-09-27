@@ -1,13 +1,13 @@
-<h2> Hi, I'm <a href="https://akshaychaudhari.github.io" target="_blank"> Akshay Chaudhari</a> <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40px"> </h2>
+<h2> Hello There, I'm <a href="https://akshaychaudhari.github.io" target="_blank"> Akshay</a> <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="40px"> </h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="250"/>
 
- <h3> A Developer, Explorer and Learner !</h3>
+ <h3> On a never ending Journey into the Web-vese !</h3>
 
-- 🧑‍💻I work as a Software Engineer.
-- ❤️‍🔥I am passionate about ☁️Cloud-Native web app development and 🧩problem solving.
-- 🌱 I’m currently learning clean✨, elegant and robust coding. 😘
-- ⚡ I love to experiment new things. I consider myself a forever student.
-- 📩 Feel free to reach me at er.akshayrc@gmail.com.
+- 🧑‍💻 Happy to be called as a Software Engineer at workplace.
+- ❤️‍🔥 Passionate about ☁️Cloud-Native web app development and 🧩problem solving.
+- 🌱 Currently learning clean✨, elegant and robust coding. 😘
+- ⚡ Inspired by all the scientists, love to experiment new things and consider myself a forever student.
+- 📩 Feel free to reach out at er.akshayrc@gmail.com.
 
 <!--
 [<img align="left" alt="akshaychaudhari" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,7 +16,7 @@
 [<img align="left" alt="akshaychaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 -->
 
-<h2>🧰 My Toolbox 🛠️</h2>
+<h2>🧰 Tech Toolbox 🛠️</h2>
 
 <p align="center">
 
@@ -79,7 +79,7 @@
 <br />
 
 <p>
-<h2>🕹️ My Github Stats 🏆</h2>
+<h2>🕹️ Github Stats 🏆</h2>
 
 <p align="center"> 
   <img  width="40%" alt="Akshay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&theme=radical&show_icons=true" >
