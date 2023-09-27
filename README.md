@@ -91,13 +91,13 @@
 
 <br />
 
-<h2>👨🏼‍💻 My Contributions 🍽️</h2>
+<!-- <h2>👨🏼‍💻 My Contributions 🍽️</h2>
 
-<p align="center"> 
+<p align="center">
   <img width="90%" alt="Contributions Graph" src="https://activity-graph.herokuapp.com/graph?username=akshaychaudhari&theme=rogue&hide_border=true&area=true"><br>
  </p>
 
-<br />
+<br /> -->
 
 <h2>💎A Quote to live by🎙</h2>
 
@@ -105,15 +105,15 @@
   <i><h3>“To know how much there is to know is the beginning of learning to live.” —Dorothy West</h3></i>
 </p>
 
-<h2>🕵🏼 Find me over 🔭</h2>
+<!-- <h2>🕵🏼 Find me over 🔭</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/akshayrc/">
     <img align="left" alt="Akshay's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=Akshay&style=for-the-badge&color=blue" />
-  </a> <emsp> 
+  </a> <emsp>
   <!-- <a href="https://www.hackerrank.com/AkshayChaudhari">
     <img align="left" alt="Akshay's Hackerrank" width="150px" src="https://img.shields.io/static/v1?label=Hackerrank&message=Akshay&style=for-the-badge&color=green" />
-  </a> -->
+  </a>
   <a href="https://leetcode.com/akshayrc/">
     <img align="left" alt="Akshay's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Leetcode&message=Akshay&style=for-the-badge&color=green" />
   </a>
@@ -122,7 +122,7 @@
   </a>
   <a href="https://akshaychaudhari.github.io">
     <img align="left" alt="Akshay's Portfolio" width="180px" src="https://img.shields.io/website?label=Portfolio+Website&style=for-the-badge&color=blueviolet&url=https://akshaychaudhari.github.io" />
-  </a>
+  </a> -->
   <!--<a href="https://akshaychaudhari.github.io">
     <img align="left"  width="45" height="45" alt="InnerEnergy" src="https://media.giphy.com/media/3rgXBuCKRMNQZ0PVEA/giphy.gif">
   </a> -->
@@ -144,6 +144,6 @@
 -->
 </br>
 
-<p align="right" style="margin-top: -25px;">
+<!-- <p align="right" style="margin-top: -25px;">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=akshaychaudhari&color=7a33ff" alt="AkshayChaudhari"/>
-</p>
+</p> -->
