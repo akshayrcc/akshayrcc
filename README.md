@@ -84,7 +84,7 @@
 <p align="center"> 
   <img  width="40%" alt="Akshay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshaychaudhari&theme=radical&show_icons=true" >
   <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaychaudhari&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" >
-  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" >
+  <!-- <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaychaudhari&layout=compact&theme=radical&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" > -->
 </p>
 
 </p>
