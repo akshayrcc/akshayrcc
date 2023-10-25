@@ -102,7 +102,7 @@
 <h2>💎 A Quote for life 🎙 A Soup for Soul 🥘 🍲 </h2>
 
 <p align="center">
-  <i><h3>"Life is a succession of lessons which must be lived to be understood." — Helen Keller</h3></i>
+  <i><h3>"Rise above the storm and you will find the sunshine." — Mario Fernández</h3></i>
 </p>
 
 <!-- <h2>🕵🏼 Find me over 🔭</h2>
