@@ -102,7 +102,7 @@
 <h2>💎 A Quote for life 🎙 A Soup for Soul 🥘 🍲 </h2>
 
 <p align="center">
-  <i><h3>"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</h3></i>
+  <i><h3>"Life is a succession of lessons which must be lived to be understood." — Helen Keller</h3></i>
 </p>
 
 <!-- <h2>🕵🏼 Find me over 🔭</h2>
