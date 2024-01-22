@@ -92,7 +92,7 @@ Since then, I’ve architected, designed, and implemented **10+** software appli
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaychaudhari&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaychaudhari&theme=2077" height="180em" />
 </div>
-I'm always looking for new challenges and opportunities. [Let's Connect](mailto:akshayrc@csu.fullerton.edu)
+I'm always looking for new challenges and opportunities. <a href="mailto:akshayrc@csu.fullerton.edu">Let's Connect</a>
 </p>
 
 <!-- As of 2024, I have earned masters degree in computer science**.
@@ -116,5 +116,6 @@ AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, Mong
 Frontend & backend development, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
 
 ---
+
 \*\*
 -->
