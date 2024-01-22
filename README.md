@@ -2,7 +2,6 @@
 <h3 align="center">On a never ending Journey into the Web-vese !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychaudhari"/> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaychaudhari" alt="akshaychaudhari" /></a> </p>
 
 I'm a full-stack software engineer with 5+ years of experience.
@@ -12,7 +11,7 @@ My journey began with noodling on web, building simple web app during my undergr
 Since then, I’ve architected, designed, and implemented **10+** software applications, with a focus on helping software users and developers discover great options to collaborate to solve real world problems and level-up their skills.
 
 - 🧑‍💻 Happy to be called as a Software Engineer at workplace.
-- ❤️‍🔥 Passionate about ☁️Cloud-Native web app development and 🧩problem solving.
+- ❤️‍🔥 Passionate about ☁️Cloud-Native web app development and 🧩 problem solving.
 - 🌱 Currently learning clean✨, elegant and robust coding. 😘
 - ⚡ Inspired by all the scientists, love to experiment new things and consider myself a forever student.
 - 👨‍💻 Visit my website at [https://akshayram.com](https://akshayram.com)
@@ -93,7 +92,7 @@ Since then, I’ve architected, designed, and implemented **10+** software appli
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaychaudhari&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaychaudhari&theme=2077" height="180em" />
 </div>
-I'm always looking for new challenges and opportunities. \*\*[Let's Connect](mailto:akshayrc@csu.fullerton.edu)
+I'm always looking for new challenges and opportunities. [Let's Connect](mailto:akshayrc@csu.fullerton.edu)
 </p>
 
 <!-- As of 2024, I have earned masters degree in computer science**.
