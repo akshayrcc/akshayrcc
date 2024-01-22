@@ -6,9 +6,9 @@
 
 I'm a full-stack software engineer with 5+ years of experience.
 
-My journey began with noodling on web, building simple web app during my undergrad, bachelors degree in computer science from Pune University, kick-starting my passion for building and delivering quality software at scale.
+My journey began with noodling on web, building simple web app during my undergrad bachelors degree in computer science, kick-starting my passion for building and delivering quality software at scale.
 
-Since then, I’ve architected, designed, and implemented **10+** software applications, with a focus on helping software users and developers discover great options to collaborate to solve real world problems and level-up their skills.
+Since then, I’ve architected, designed, and implemented numerous software applications, with a focus on helping software users and developers discover great options to collaborate to solve real world problems and level-up their skills.
 
 - 🧑‍💻 Happy to be called as a Software Engineer at workplace.
 - ❤️‍🔥 Passionate about ☁️Cloud-Native web app development and 🧩 problem solving.
