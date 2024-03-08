@@ -85,12 +85,12 @@ Since then, I’ve architected, designed, and implemented numerous software appl
 
 <p>
 <div align="center">
-<a href="https://github.com/akshaychaudhari">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshaychaudhari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshaychaudhari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshaychaudhari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshaychaudhari&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshaychaudhari&theme=2077" height="180em" />
+<a href="https://github.com/akshayrcc">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshayrcc&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshayrcc&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshayrcc&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayrcc&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayrcc&theme=2077" height="180em" />
 </div>
 I'm always looking for new challenges and opportunities. <a href="mailto:akshayrc@csu.fullerton.edu">Let's Connect</a>
 </p>
