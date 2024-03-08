@@ -2,7 +2,7 @@
 <h3 align="center">On a never ending Journey into the Web-verse !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="akshaychaudhari"/> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaychaudhari" alt="akshaychaudhari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayrcc&theme=darkhub&rank=-?&column=-1" alt="akshaychaudhari" /></a> </p>
 
 I'm a full-stack software engineer with 5+ years of experience.
 
