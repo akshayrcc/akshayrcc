@@ -20,7 +20,7 @@ Since then, I’ve architected, designed, and implemented numerous software appl
 
 <p align="left">
 <a href="https://linkedin.com/in/akshayrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshayrc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11896804/akshay-chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay-chaudhari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11896804/akshay-rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay-rc" height="30" width="40" /></a>
 <a href="https://instagram.com/titancoding200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="titancoding200" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DevDNA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@DevDNA" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/xxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xxx" height="30" width="40" /></a> -->
