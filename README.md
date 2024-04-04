@@ -5,7 +5,7 @@
   margin: 25px;
   /* width: 350px;
   height: 200px; */
-  outline: dashed 1px black;
+  /* outline: dashed 1px black; */
    /* Center child horizontally*/
   display: flex;
   justify-content: center;
@@ -21,6 +21,7 @@
   width: 45px;
   margin: 2px;
   border-radius: 5px;
+  background-color: black;
 }
 
 .img_std_white{
@@ -35,7 +36,7 @@
 
 <!-- <h2 align="center">Hi 👋, I'm Akshay Chaudhari</h2>
 <h3 align="center">On a never ending Journey into the Web-verse !</h3> -->
-<p align="center"> <img src="./img/banner_1.png" alt="akshay chaudhari banner"/> </p>
+<p align="center"> <img src="./img/banner_1.png" alt="Akshay Chaudhari banner"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="akshay chaudhari count"/> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayrcc&theme=darkhub&rank=-?&column=-1" alt="akshay chaudhari trophies" /></a> </p>
 
