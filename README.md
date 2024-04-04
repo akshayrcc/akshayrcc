@@ -1,3 +1,38 @@
+<style>
+  .container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  /* width: 350px;
+  height: 200px; */
+  outline: dashed 1px black;
+   /* Center child horizontally*/
+  display: flex;
+  justify-content: center;
+  /* background-color: #FFFFFF; */
+}
+
+/* p {
+  text-align: center;
+} */
+
+.img_std {
+  height: 45px;
+  width: 45px;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.img_std_white{
+  height: 45px;
+  width: 45px;
+  margin: 2px;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+}
+
+</style>
+
 <!-- <h2 align="center">Hi 👋, I'm Akshay Chaudhari</h2>
 <h3 align="center">On a never ending Journey into the Web-verse !</h3> -->
 <p align="center"> <img src="./img/banner_1.png" alt="akshay chaudhari banner"/> </p>
@@ -148,39 +183,3 @@ Frontend & backend development, software architecture, project research/planning
 
 \*\*
 -->
-
-<style>
-
-  .container {
-  font-family: arial;
-  font-size: 24px;
-  margin: 25px;
-  /* width: 350px;
-  height: 200px; */
-  outline: dashed 1px black;
-   /* Center child horizontally*/
-  display: flex;
-  justify-content: center;
-  /* background-color: #FFFFFF; */
-}
-
-/* p {
-  text-align: center;
-} */
-
-.img_std {
-  height: 45px;
-  width: 45px;
-  margin: 2px;
-  border-radius: 5px;
-}
-
-.img_std_white{
-  height: 45px;
-  width: 45px;
-  margin: 2px;
-  border-radius: 5px;
-  background-color: #FFFFFF;
-}
-
-</style>
