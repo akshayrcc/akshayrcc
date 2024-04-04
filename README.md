@@ -16,7 +16,7 @@
   text-align: center;
 } */
 
-.img_std {
+.img_std_black {
   height: 45px;
   width: 45px;
   margin: 2px;
@@ -71,11 +71,11 @@
 <div class="container" class="img_std">
 <!-- Backend-->
 
-<img class="img_std" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
-<img class="img_std" alt="Spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img class="img_std" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
-<img class="img_std" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img class="img_std" alt="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg">
+<img class="img_std_black" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
+<img class="img_std_black" alt="Spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img class="img_std_black" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
+<img class="img_std_black" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img class="img_std_black" alt="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg">
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  /> -->
 <img class="img_std" alt="Redis Logo" src="https://cdn.simpleicons.org/redis/DC382D"/>
