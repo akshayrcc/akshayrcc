@@ -1,3 +1,4 @@
+<HTML>
 <style>
   .container {
   font-family: arial;
@@ -12,24 +13,24 @@
   /* background-color: #FFFFFF; */
 }
 
-/* p {
-  text-align: center;
-} */
+/_ p {
+text-align: center;
+} _/
 
 .img_std_black {
-  height: 45px;
-  width: 45px;
-  margin: 2px;
-  border-radius: 5px;
-  background-color: black;
+height: 45px;
+width: 45px;
+margin: 2px;
+border-radius: 5px;
+background-color: black;
 }
 
 .img_std_white{
-  height: 45px;
-  width: 45px;
-  margin: 2px;
-  border-radius: 5px;
-  background-color: #FFFFFF;
+height: 45px;
+width: 45px;
+margin: 2px;
+border-radius: 5px;
+background-color: #FFFFFF;
 }
 
 </style>
@@ -184,3 +185,4 @@ Frontend & backend development, software architecture, project research/planning
 
 \*\*
 -->
+</HTML>
