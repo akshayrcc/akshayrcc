@@ -39,22 +39,23 @@
 <img align="center"  width="45" height="45" alt="Spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="center"  width="45" height="45" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
 <img align="center"  width="45" height="45" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="center" width="45" height="45" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
 <img align="center"  width="45" height="45" alt="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg">
-
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  /> -->
 <img align="center" width="45" height="45" alt="Redis Logo" src="https://cdn.simpleicons.org/redis/DC382D"/>
 
 <!-- UI-->
-<img align="center" width="45" height="45" alt="Groovy"  src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
-<img align="center" width="45" height="45" alt="Grails"   src="https://grails.org/images/grails_logo.svg">
-<img align="center" width="45" height="45" alt="Angular"   src="https://angular.io/assets/images/logos/angular/angular.svg">
-<img align="center" width="45" height="45" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+
+<img align="center" width="45" height="45" alt="Angular"  src="https://angular.io/assets/images/logos/angular/angular.svg">
+<img align="center" width="45" height="45" alt="React"  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 <img align="center" width="45" height="45" alt="Node.js"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="center" width="45" height="45" alt="npm logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
-<img align="center" width="45" height="45" alt="rust logo" src="https://skillicons.dev/icons?i=rust"/>
+<!-- <img align="center" width="45" height="45" alt="rust logo" src="https://skillicons.dev/icons?i=rust"/> -->
 <!-- <img width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> -->
 <!--<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">-->
 <img align="center" width="45" height="45" alt="Bootstrap logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" width="45" height="45" alt="Groovy" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
+<img align="center" width="45" height="45" alt="Grails"  src="https://grails.org/images/grails_logo.svg">
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  /> -->
 </div>
 
