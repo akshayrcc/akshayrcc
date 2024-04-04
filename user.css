@@ -1,0 +1,32 @@
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  /* width: 350px;
+  height: 200px; */
+  /* outline: dashed 1px black; */
+  /* Center child horizontally*/
+  display: flex;
+  justify-content: center;
+  /* background-color: #FFFFFF; */
+}
+
+p {
+  text-align: center;
+}
+
+.img_std_black {
+  height: 45px;
+  width: 45px;
+  margin: 2px;
+  border-radius: 5px;
+  background-color: black;
+}
+
+.img_std_white {
+  height: 45px;
+  width: 45px;
+  margin: 2px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
