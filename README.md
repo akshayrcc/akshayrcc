@@ -5,9 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayrcc&theme=darkhub&rank=-?&column=-1" alt="akshay chaudhari trophies" /></a> </p>
 
 > I'm a full-stack software engineer with 5+ years of experience.
-
 > My journey began with noodling on web, building simple web app during my undergrad bachelors degree in computer science, kick-starting my passion for building and delivering quality software at scale.
-
 > Since then, I’ve architected, designed, and implemented numerous software applications, with a focus on helping software users and developers discover great options to collaborate to solve real world problems and level-up their skills.
 
 - 🧑‍💻 Happy to be called as a Software Engineer at workplace.
