@@ -32,7 +32,7 @@
 
 <h3 align="center">🧰 Tech Toolbox 🛠️</h3>
 
-<div class="container">
+<div class="container" class="img_std">
 <!-- Backend-->
 
 <img class="img_std" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
