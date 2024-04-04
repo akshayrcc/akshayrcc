@@ -32,74 +32,74 @@
 
 <h3 align="center">🧰 Tech Toolbox 🛠️</h3>
 
-<div class="container" class="img_std">
+<div align="center">
 <!-- Backend-->
 
-<img class="img_std_black" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
-<img class="img_std_black" alt="Spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img class="img_std_black" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
-<img class="img_std_black" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img class="img_std_black" alt="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg">
+<img align="center"  width="45" height="45" alt="Java" src="https://dev.java/assets/images/java-logo-vert-blk.png">
+<img align="center"  width="45" height="45" alt="Spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="center"  width="45" height="45" alt="Spring Boot" src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg">
+<img align="center"  width="45" height="45" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="center"  width="45" height="45" alt="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg">
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" alt="go logo"  /> -->
-<img class="img_std" alt="Redis Logo" src="https://cdn.simpleicons.org/redis/DC382D"/>
+<img align="center" width="45" height="45" alt="Redis Logo" src="https://cdn.simpleicons.org/redis/DC382D"/>
 
 <!-- UI-->
-<img class="img_std_white" alt="Groovy"  src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
-<img class="img_std" alt="Grails"   src="https://grails.org/images/grails_logo.svg">
-<img class="img_std" alt="Angular"   src="https://angular.io/assets/images/logos/angular/angular.svg">
-<img class="img_std" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img class="img_std" alt="Node.js"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img class="img_std" alt="npm logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
-<img class="img_std" alt="rust logo" src="https://skillicons.dev/icons?i=rust"/>
+<img align="center" width="45" height="45" alt="Groovy"  src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg">
+<img align="center" width="45" height="45" alt="Grails"   src="https://grails.org/images/grails_logo.svg">
+<img align="center" width="45" height="45" alt="Angular"   src="https://angular.io/assets/images/logos/angular/angular.svg">
+<img align="center" width="45" height="45" alt="TypeScript"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img align="center" width="45" height="45" alt="Node.js"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img align="center" width="45" height="45" alt="npm logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
+<img align="center" width="45" height="45" alt="rust logo" src="https://skillicons.dev/icons?i=rust"/>
 <!-- <img width="45" height="45" alt="HTML5"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> -->
 <!--<img align="left"  width="45" height="45" alt="CSS3"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">-->
-<img class="img_std" alt="Bootstrap logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" width="45" height="45" alt="Bootstrap logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" alt="sass logo"  /> -->
 </div>
 
-<div class="container">
+<div align="center">
 <!--Databases-->
-<img class="img_std" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
-<img class="img_std" alt="PostreSQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center" width="45" height="45" alt="Oracle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/oracle.svg">
+<img align="center" width="45" height="45" alt="PostreSQL"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 <!--<img   width="45" height="45" alt="SQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">-->
-<img class="img_std" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img class="img_std" alt="MongoDB"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" width="45" height="45" alt="MySQL"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img align="center" width="45" height="45" alt="MongoDB"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
 <!--DevOps-->
-<img class="img_std" alt="Docker"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-<img class="img_std" alt="Jenkins"   src="https://www.jenkins.io/images/logos/brno/brno.png">
-<img class="img_std" alt="Kubernetes"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg">
+<img align="center" width="45" height="45" alt="Docker"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+<img align="center" width="45" height="45" alt="Jenkins"   src="https://www.jenkins.io/images/logos/brno/brno.png">
+<img align="center" width="45" height="45" alt="Kubernetes"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg">
 <!-- <img class="img_1" width="45" height="45" alt="AWS"   src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> -->
 
 <!--Repo/Dependencies -->
-<img class="img_std_white" alt="Maven"  src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg">
-<img class="img_std_white" alt="Gradle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg">
+<img align="center" width="45" height="45" alt="Maven"  src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg">
+<img align="center" width="45" height="45" alt="Gradle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg">
 
 <!--Unit Testing-->
-<img class="img_std" alt="JUnit"   src="https://avatars.githubusercontent.com/u/874086?s=200&v=4">
-<img class="img_std" alt="selenium logo" src="https://cdn.simpleicons.org/selenium/43B02A"/>
+<img align="center" width="45" height="45" alt="JUnit"   src="https://avatars.githubusercontent.com/u/874086?s=200&v=4">
+<img align="center" width="45" height="45" alt="selenium logo" src="https://cdn.simpleicons.org/selenium/43B02A"/>
 
 <br />
 </div>
 
-<div class="container">
+<div align="center">
 <!--Code Management-->
-<img class="img_std" alt="Git"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img class="img_std_white" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img class="img_std" alt="VSCode"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img class="img_std" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img class="img_std" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-<img class="img_std" alt="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420"/>
-<img class="img_std" alt="BASH" src="https://cdn.simpleicons.org/gnubash/4EAA25"/>
-<img class="img_std" alt="RegEx" src="https://skillicons.dev/icons?i=regex"/>
+<img align="center" width="45" height="45" alt="Git"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<img align="center" width="45" height="45" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img align="center" width="45" height="45" alt="VSCode"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="center" width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img align="center" width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img align="center" width="45" height="45" alt="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420"/>
+<img align="center" width="45" height="45" alt="BASH" src="https://cdn.simpleicons.org/gnubash/4EAA25"/>
+<img align="center" width="45" height="45" alt="RegEx" src="https://skillicons.dev/icons?i=regex"/>
 
 <br />
 <!--Source-->
-<img class="img_std" alt="Google" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-<img class="img_std" alt="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
-<img class="img_std" alt="GCP" src="https://skillicons.dev/icons?i=gcp" />
-<img class="img_std" alt="AWS" src="https://skillicons.dev/icons?i=aws"/>
+<img align="center" width="45" height="45" alt="Google" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+<img align="center" width="45" height="45" alt="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>
+<img align="center" width="45" height="45" alt="GCP" src="https://skillicons.dev/icons?i=gcp" />
+<img align="center" width="45" height="45" alt="AWS" src="https://skillicons.dev/icons?i=aws"/>
 <!-- <img width="45" height="45" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/> -->
 
 <!---->
