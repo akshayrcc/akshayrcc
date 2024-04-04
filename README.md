@@ -1,11 +1,14 @@
 <!-- <h2 align="center">Hi 👋, I'm Akshay Chaudhari</h2>
 <h3 align="center">On a never ending Journey into the Web-verse !</h3> -->
 <p align="center"> <img src="./img/banner_1.png" alt="Akshay Chaudhari banner"/> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaychaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="akshay chaudhari count"/> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshayrcc&theme=darkhub&rank=-?&column=-1" alt="akshay chaudhari trophies" /></a> </p>
+
+<p align="left"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=akshayrcc&theme=darkhub&rank=-?&column=-1" alt="Akshay Chaudhari trophies"/></a> 
+</p>
 
 <div>
-<details close>
+<details open>
 
 > I'm a full-stack software engineer with 5+ years of experience.</br>
 > My journey began with noodling on web, building simple web app during my undergrad bachelors degree in computer science, kick-starting my passion for building and delivering quality software at scale.</br>
@@ -124,6 +127,8 @@
 <a href="mailto:akshayrc@csu.fullerton.edu">Let's Connect</a></div>
 
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=akshaychaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="akshay chaudhari count"/> </p>
 
 <!-- As of 2024, I have earned masters degree in computer science**.
 
